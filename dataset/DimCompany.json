@@ -45,7 +45,7 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "dportas",
+			"schema": "bigp",
 			"table": "dimcompany"
 		}
 	},
